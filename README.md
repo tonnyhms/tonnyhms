@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Antonio Silva
-- 👀 I’m interested in Computer Science and Industrial Automation
-- 🌱 I’m currently learning web development
+- 👋 Hi, I’m Antonio Silva;
+- 👀 I’m interested in Computer Science and Industrial Automation;
+- 🌱 I’m currently learning web development, computer science at UniFBV and watching Harvard's Introduction to Computer Science course.
 
 
 
